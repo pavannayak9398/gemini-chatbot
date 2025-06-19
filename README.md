@@ -27,6 +27,5 @@ An interactive Streamlit web app that connects with Google's Gemini models (`gem
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/gemini-chatbot.git
+git clone https://github.com/pavannayak9398/gemini-chatbot.git
 cd gemini-chatbot
-
