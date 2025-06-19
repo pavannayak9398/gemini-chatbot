@@ -20,8 +20,7 @@ An interactive Streamlit web app that connects with Google's Gemini models (`gem
 
 ## 📸 Preview
 
-![App Screenshot](https://images.unsplash.com/photo-1629904853716-f0bc54eea481?auto=format&fit=crop&w=1600&q=80)
-
+![Chatbot Preview](https://raw.githubusercontent.com/<pavannayak9398>/<gemini-chatbot>/main/First_page.jpg)
 ---
 
 ## 🚀 Getting Started
